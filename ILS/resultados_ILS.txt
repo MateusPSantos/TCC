@@ -1,0 +1,5 @@
+CapEuclideo.50.50.1.1.tpp ;54703 ;50 ;17.1476
+CapEuclideo.50.50.1.1.tpp ;58605 ;50 ;0.003495
+CapEuclideo.50.50.1.1.tpp ;56241 ;50 ;0.00361
+CapEuclideo.50.50.1.1.tpp ;56802 ;50 ;0.003517
+CapEuclideo.50.50.1.1.tpp ;54453 ;50 ;8.4519
